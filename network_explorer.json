@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Etherscan",
+    "baseUrl": "https://sepolia.etherscan.io/",
+    "paths": {
+      "tx": "/tx",
+      "address": "/address",
+      "token": "/token",
+      "block": "/block"
+    }
+  },
+  {
+    "title": "Blast Sepolia Explorer",
+    "baseUrl": "https://https://testnet.blastscan.io/",
+    "paths": {
+      "tx": "/tx",
+      "address": "/address",
+      "token": "/token",
+    "block": "/block"
+  }}]
