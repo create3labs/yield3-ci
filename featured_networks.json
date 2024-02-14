@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Sepolia",
+    "url": "https://eth-sepolia.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
+    "isActive": false
+  },
+  {
+    "title": "Blast Sepolia",
+    "url": "https://testnet.blastscan.io/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
+    "isActive": false
+  },
+  {
+    "title": "YIELD3 Blast Sepolia",
+    "url": "https://yield3.tech/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
+    "isActive": true
+  }
+]
