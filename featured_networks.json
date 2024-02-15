@@ -17,7 +17,7 @@
     "title": "YIELD3 Blast Sepolia",
     "url": "https://yield3.tech/",
     "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
+    "icon": "https://raw.githubusercontent.com/create3labs/yield3-ci/main/network-logo.svg",
     "isActive": true
   }
 ]
