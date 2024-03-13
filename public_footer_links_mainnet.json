@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Tools",
+    "links": [
+      {
+        "text": "Bridge",
+        "url": "https://bridge.y3.network"
+      },
+      {
+        "text": "Yieldswap - Dex",
+        "url": "https://swap.y3.network/"
+      }
+    ]
+  },
+  {
+    "title": "Game Example",
+    "links": [
+      {
+        "text": "Cookie Clickr",
+        "url": "https://clickr.y3.network"
+      }
+    ]
+  }
+]
