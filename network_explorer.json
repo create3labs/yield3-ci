@@ -1,6 +1,6 @@
 [
   {
-    "title": "Etherscan",
+    "title": "Sepolia Etherscan",
     "baseUrl": "https://sepolia.etherscan.io/",
     "paths": {
       "tx": "/tx",
@@ -16,5 +16,27 @@
       "tx": "/tx",
       "address": "/address",
       "token": "/token",
-    "block": "/block"
-  }}]
+      "block": "/block"
+    }
+  },
+  {
+    "title": "Etherscan",
+    "baseUrl": "https://etherscan.io/",
+    "paths": {
+      "tx": "/tx",
+      "address": "/address",
+      "token": "/token",
+      "block": "/block"
+    }
+  },
+  {
+    "title": "Blast Explorer",
+    "baseUrl": "https://https://blastscan.io/",
+    "paths": {
+      "tx": "/tx",
+      "address": "/address",
+      "token": "/token",
+      "block": "/block"
+    }
+  }
+]
