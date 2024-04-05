@@ -1,5 +1,4 @@
-[
-  {
+[{
     "title": "Sepolia",
     "url": "https://eth-sepolia.blockscout.com/",
     "group": "Testnets",
@@ -33,7 +32,8 @@
     "group": "Mainnet",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
     "isActive": true
-  }{
+  },
+  {
     "title": "Ethereum",
     "url": "https://etherscan.io/",
     "group": "Mainnet",
