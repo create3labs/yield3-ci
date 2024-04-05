@@ -1,1 +1,43 @@
-[{'title':'Sepolia','url':'https://eth-sepolia.blockscout.com/','group':'Testnets','icon':'https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png','isActive':false},{'title':'Blast Sepolia','url':'https://testnet.blastscan.io/','group':'Testnets','icon':'https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png','isActive':false},{'title':'YIELD3 Blast Sepolia','url':'https://yield3.tech/','group':'Testnets','icon':'https://raw.githubusercontent.com/create3labs/yield3-ci/main/network-logo.svg','isActive':true},{'title':'YIELD3','url':'https://y3.network/','group':'Mainnet','icon':'https://raw.githubusercontent.com/create3labs/yield3-ci/main/network-logo.svg','isActive':true},{'title':'Blast','url':'https://blastscan.io/','group':'Mainnet','icon':'https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png','isActive':true},{'title':'Ethereum','url':'https://etherscan.io/','group':'Mainnet','icon':'https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png','isActive':false}]
+[
+  {
+    "title": "Sepolia",
+    "url": "https://eth-sepolia.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
+    "isActive": false
+  },
+  {
+    "title": "Blast Sepolia",
+    "url": "https://testnet.blastscan.io/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
+    "isActive": false
+  },
+  {
+    "title": "YIELD3 Blast Sepolia",
+    "url": "https://yield3.tech/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/create3labs/yield3-ci/main/network-logo.svg",
+    "isActive": true
+  },
+  {
+    "title": "YIELD3",
+    "url": "https://y3.network/",
+    "group": "Mainnet",
+    "icon": "https://raw.githubusercontent.com/create3labs/yield3-ci/main/network-logo.svg",
+    "isActive": true
+  },
+  {
+    "title": "Blast",
+    "url": "https://blastscan.io/",
+    "group": "Mainnet",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
+    "isActive": true
+  }{
+    "title": "Ethereum",
+    "url": "https://etherscan.io/",
+    "group": "Mainnet",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
+    "isActive": false
+  }
+]
