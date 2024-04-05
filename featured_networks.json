@@ -22,21 +22,21 @@
   {
     "title": "YIELD3",
     "url": "https://y3.network/",
-    "group": "Mainnet",
+    "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/create3labs/yield3-ci/main/network-logo.svg",
     "isActive": true
   },
   {
     "title": "Blast",
     "url": "https://blastscan.io/",
-    "group": "Mainnet",
+    "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
     "isActive": true
   },
   {
     "title": "Ethereum",
     "url": "https://etherscan.io/",
-    "group": "Mainnet",
+    "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
     "isActive": false
   }
